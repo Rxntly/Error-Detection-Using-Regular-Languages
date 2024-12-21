@@ -18,6 +18,3 @@ DFA (Deterministic Finite Automaton) theory
 
 ### Found on:
 * https://github.com/RaedMassoud/Error-Detection-Using-Regular-Languages.git
-
-### Clone with:
-* git@github.com:RaedMassoud/Error-Detection-Using-Regular-Languages.git
