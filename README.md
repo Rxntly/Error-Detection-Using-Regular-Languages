@@ -13,5 +13,11 @@ Deterministic Finite Automaton (DFA) implementation in python to detect even/odd
 
 ### Technologies Used:
 
-Python 3.x
+Python  
 DFA (Deterministic Finite Automaton) theory
+
+### Found on:
+* https://github.com/RaedMassoud/Error-Detection-Using-Regular-Languages.git
+
+### Clone with:
+* git@github.com:RaedMassoud/Error-Detection-Using-Regular-Languages.git
