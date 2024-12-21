@@ -6,14 +6,14 @@ This project serves as a basic demonstration of error detection using parity and
 
 Deterministic Finite Automaton implementation in python to detect odd parity errors in binary messages
 
-* Parity Checking: Detects whether the number of 1s in a binary string is even or odd.
-* Parity Error Detection: Compares the actual parity of a binary string with the expected parity (even or odd).
-* Python Implementation: The project includes a Python function to validate binary strings against expected parity values.
-* Test Cases: Several test cases are provided to validate the correctness of the parity error detection.
+* Parity Checking: Detects whether the number of 1s is even or odd.
+* Parity Error Detection: Compares the actual parity with the expected parity.
+* Validation: Validate binary strings against expected parity values.
+* Test Cases: Test Bench to validate the output integrity of the system.
 
 ### Technologies Used:
 
-Python  
+* Python  
 * Deterministic Finite Automaton theory
 
 ### Found on:
